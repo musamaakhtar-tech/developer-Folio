@@ -7,7 +7,7 @@
 
 <p align="center">
   <kbd>
-    <img src="./assets/images/all-devices-black.png" alt="Developer Portfolio Demo">
+    <img src="https://github.com/musamaakhtar-tech/developer-Folio/blob/main/src/assets/images/all-devices-black.png" alt="Developer Portfolio Demo">
   </kbd>
 </p>
 
