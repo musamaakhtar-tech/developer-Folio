@@ -254,14 +254,6 @@ You are encouraged to replace these assets with your own designs for a more pers
 
 ---
 
-## 🙌 Contributors
-
-Thanks to all contributors of this project and the original [`@saadpasta`](https://github.com/saadpasta/developer-Folio) for the inspiration.
-
-Your contributions are valuable! Feel free to fork the project, open issues, or submit pull requests to enhance the features, fix bugs, or improve documentation.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](https://github.com/musamaakhtar-tech/developer-Folio/blob/master/LICENSE).
